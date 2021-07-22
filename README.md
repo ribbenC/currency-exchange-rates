@@ -1,1 +1,1 @@
-
+simple exchange rates calculator
